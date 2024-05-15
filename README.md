@@ -27,6 +27,7 @@ To install the necessary Node.js modules, run the following command in your term
 
 ```
 npm install
+```
 
 
 This will install all the dependencies required to run the Dog App.
@@ -37,3 +38,4 @@ Once the dependencies are installed, you can run the Dog App using the following
 
 ```
 npm run dev
+```

@@ -40,6 +40,9 @@ npm run dev
 ```
 
 ## Screenshots
+- Loading Screenshot
 ![Loading Screenshot](Loading.png)
+- Homepage Screenshot
 ![Homepage Screenshot](homepage.png)
+- Product Screenshot
 ![Product Page](productpage.png)

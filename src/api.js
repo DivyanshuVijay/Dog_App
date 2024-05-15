@@ -1,7 +1,7 @@
 const API_KEY =
   "live_EaLSUfLezpLEkTa99cMwJuOtIF43kp6pRYWhOLlCVqwiIprq7k4qtXXImqjaf5ZB";
 
-//fetching data from the Dog API breeds endpoint
+//fetching data from the Dog API
 export async function fetchDogBreeds() {
   try {
     const response = await fetch("https://api.thedogapi.com/v1/breeds", {

@@ -12,13 +12,12 @@ Currently, two official plugins are available:
 
 ## Overview
 
-The Dog App is a web application that allows users to explore various features related to dogs. It provides information about different dog breeds, images of dogs, and fun facts about them. Whether you're a dog lover or just curious about our furry friends, the Dog App has something for everyone.
+The Dog App is a web application that allows users to explore various features related to dogs breeds. It provides information about different dog breeds, images of dogs, and details about them. 
 
 ## Features
 
 - Browse through a wide range of dog breeds.
 - View images of dogs belonging to different breeds.
-- Learn interesting facts about various dog breeds.
 - Enjoy a visually pleasing and user-friendly interface.
 
 ## Installation

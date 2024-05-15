@@ -38,3 +38,8 @@ Once the dependencies are installed, you can run the Dog App using the following
 ```
 npm run dev
 ```
+
+## Screenshots
+![Loading Screenshot](Loading.png)
+![Homepage Screenshot](homepage.png)
+![Product Page](productpage.png)
